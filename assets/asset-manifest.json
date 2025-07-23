@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.0b6c3ce8.css",
-    "main.js": "./static/js/main.38114f44.js",
+    "main.js": "./static/js/main.6cbaf5f4.js",
     "static/js/787.969164ee.chunk.js": "./static/js/787.969164ee.chunk.js",
     "static/media/americacover.mp4": "./static/media/americacover.030f9ae00ffe0f7411ac.mp4",
     "static/media/doorFog_once.gif": "./static/media/doorFog_once.e0e63f46fd9dcfd66ac4.gif",
@@ -156,6 +156,6 @@
   },
   "entrypoints": [
     "static/css/main.0b6c3ce8.css",
-    "static/js/main.38114f44.js"
+    "static/js/main.6cbaf5f4.js"
   ]
 }
